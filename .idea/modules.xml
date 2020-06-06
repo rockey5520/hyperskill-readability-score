@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability_Score1.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability_Score1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Readability_Score1.Problems-Area_of_a_circle.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Readability_Score1.Problems-Area_of_a_circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Readability_Score1.Problems-Area_of_a_circle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Readability_Score1.Problems-Area_of_a_circle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Readability_Score1.Problems-Area_of_a_circle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Readability_Score1.Problems-Area_of_a_circle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Readability_Score1.Problems-Difference_between_two_doubles.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Readability_Score1.Problems-Difference_between_two_doubles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Readability_Score1.Problems-Difference_between_two_doubles.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Readability_Score1.Problems-Difference_between_two_doubles.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Readability_Score1.Problems-Difference_between_two_doubles.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Readability_Score1.Problems-Difference_between_two_doubles.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Readability_Score1.Problems-Distance.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Readability_Score1.Problems-Distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Readability_Score1.Problems-Distance.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Readability_Score1.Problems-Distance.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Readability_Score1.Problems-Distance.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Readability_Score1.Problems-Distance.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score1.Readability_Score-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Readability_Score1.util.test.iml" />
+    </modules>
+  </component>
+</project>
